@@ -272,6 +272,8 @@ web_client {
 
 default_mode "locked"
 
+show_startup_tips false
+
 focus_follows_mouse true
 
 mouse_click_through true
