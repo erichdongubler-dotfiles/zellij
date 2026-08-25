@@ -278,3 +278,6 @@ focus_follows_mouse true
 
 mouse_click_through true
 
+// osc133_command_selection false
+
+// word_separators "[]{}<>()"
